@@ -18,7 +18,7 @@
 BackRequested="MyNavigationView_BackRequested"    >
             
             <NavigationView.MenuItems>
-                <NavigationViewItem Icon="Audio" Content="Repeat Centence" x:Name="Repeat" Background="AliceBlue" Foreground="Black" BorderBrush="Black"/>
+                <NavigationViewItem Icon="Audio" Content="Repeat Sentence" x:Name="Repeat" Background="AliceBlue" Foreground="Black" BorderBrush="Black"/>
 
                 <NavigationViewItem Icon="Admin"  Content="AuthorTeam" Background="AliceBlue" Foreground="Black"  BorderBrush="Black"
 x:Name="AuthorTeam" />

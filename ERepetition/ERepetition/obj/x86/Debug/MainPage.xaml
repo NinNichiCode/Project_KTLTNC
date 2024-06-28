@@ -18,7 +18,7 @@
                                                   >
             
             <NavigationView.MenuItems>
-                <NavigationViewItem x:ConnectionId='3' Icon="Audio" Content="Repeat Centence" x:Name="Repeat" Background="AliceBlue" Foreground="Black" BorderBrush="Black"/>
+                <NavigationViewItem x:ConnectionId='3' Icon="Audio" Content="Repeat Sentence" x:Name="Repeat" Background="AliceBlue" Foreground="Black" BorderBrush="Black"/>
 
                 <NavigationViewItem x:ConnectionId='4' Icon="Admin"  Content="AuthorTeam" Background="AliceBlue" Foreground="Black"  BorderBrush="Black"
 x:Name="AuthorTeam" />

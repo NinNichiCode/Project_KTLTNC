@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-06-27T08:32:44.389</Modified>
+      <Modified>2024-06-28T14:08:38.199</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\ERepetition.exe">
       <PackagePath>entrypoint\ERepetition.exe</PackagePath>
-      <Modified>2024-06-27T08:32:41.890</Modified>
+      <Modified>2024-06-28T14:08:36.090</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.14\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -106,35 +106,35 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.576</Modified>
+      <Modified>2024-06-28T14:08:35.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\AppInfor.xbf">
       <PackagePath>AppInfor.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.576</Modified>
+      <Modified>2024-06-28T14:08:35.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\AuthorTeam.xbf">
       <PackagePath>AuthorTeam.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.576</Modified>
+      <Modified>2024-06-28T14:08:35.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\CheckWordsPage.xbf">
       <PackagePath>CheckWordsPage.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.576</Modified>
+      <Modified>2024-06-28T14:08:35.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\FlashcardsPage.xbf">
       <PackagePath>FlashcardsPage.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.576</Modified>
+      <Modified>2024-06-28T14:08:35.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\Learning.xbf">
       <PackagePath>Learning.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.577</Modified>
+      <Modified>2024-06-28T14:08:35.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.577</Modified>
+      <Modified>2024-06-28T14:08:35.871</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\Repeat.xbf">
       <PackagePath>Repeat.xbf</PackagePath>
-      <Modified>2024-06-27T08:32:41.575</Modified>
+      <Modified>2024-06-28T14:08:35.855</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -146,7 +146,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\university\HK6\Ky thuat lap trinh nang cao\project2\ERepetition\ERepetition\bin\x86\Debug\Core\ERepetition.exe">
       <PackagePath>ERepetition.exe</PackagePath>
-      <Modified>2024-06-27T08:32:44.373</Modified>
+      <Modified>2024-06-28T14:08:38.183</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

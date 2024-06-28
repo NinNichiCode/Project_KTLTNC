@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="ERepetition.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ERepetition"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid >
+
+
+        <Grid.Background>
+            <ImageBrush Opacity="1"   ImageSource ="/Assets/blue_abstract.jpg" />
+        </Grid.Background>
+        <NavigationView x:ConnectionId='2' x:Name="MyNavigationView"                                            IsBackEnabled="True" 
+                                                  >
+            
+            <NavigationView.MenuItems>
+                <NavigationViewItem x:ConnectionId='3' Icon="Audio" Content="Repeat Centence" x:Name="Repeat" Background="AliceBlue" Foreground="Black" BorderBrush="Black"/>
+
+                <NavigationViewItem x:ConnectionId='4' Icon="Admin"  Content="AuthorTeam" Background="AliceBlue" Foreground="Black"  BorderBrush="Black"
+x:Name="AuthorTeam" />
+                <NavigationViewItem x:ConnectionId='5' Icon="AllApps" Content="App Information" Background="AliceBlue" Foreground="Black"  BorderBrush="Black"
+x:Name="AppInfor" />
+                <NavigationViewItem x:ConnectionId='6' Icon="Preview" Content="Learning" Background="AliceBlue" Foreground="Black"  BorderBrush="Black"
+x:Name="Learning" />
+
+            
+            </NavigationView.MenuItems >
+            <NavigationView.Content>
+                <Frame x:ConnectionId='7' x:Name="ContentFrame" HorizontalAlignment="Right" Width="1180" />
+            </NavigationView.Content>
+            
+
+        </NavigationView>
+        
+    </Grid>
+</Page>
+
